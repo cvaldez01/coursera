@@ -21,6 +21,20 @@ span.navbar-toggler-icon{
     text-decoration:none;
     color:white;
 }
+.dropdown-center{
+    text-align: center;
+}
+.middle{
+    margin-right:-35px;
+    margin-left:-35px;
+}
+.navbar-toggler-icon{
+   align-items: flex-start;!important
+
+}
+
+
+
 
 /*Breakpoints for Differeent screns*/
 @media (max-width: 575.98px) { ... }
